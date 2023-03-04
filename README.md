@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paige</h1>
+<h1 align="center">Hi, I'm Paige</h1>
 <h3 align="center">A freelance full-stack web developer with a special interest in accessibility and security. I love finding elegant solutions to complex problems.</h3>
 
 <p align="center"> <a href="https://twitter.com/paigejenkinsdev" target="blank"><img src="https://img.shields.io/twitter/follow/paigejenkinsdev?logo=twitter&style=for-the-badge" alt="paigejenkinsdev" /></a> </p>
