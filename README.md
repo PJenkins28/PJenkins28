@@ -14,8 +14,8 @@
 
 </p>
 
-
-📫 Let's work together **PaigeJenkinsDev@gmail.com**
+<!-- 
+📫 Let's work together **PaigeJenkinsDev@gmail.com** -->
 
 
 
